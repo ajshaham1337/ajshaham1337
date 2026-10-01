@@ -2,7 +2,7 @@
 
 Gameplay and full-stack engineer. I build games and web apps.
 
-[Portfolio](https://portfolio.ajshaham.workers.dev) · [LinkedIn](https://www.linkedin.com/in/alexander-shaham/) · [Email](mailto:ajshaham@gmail.com)
+[Portfolio](https://portfolio.ajshaham.workers.dev) · [Leetcode](https://leetcode.com/u/ajshaham1337/) · [LinkedIn](https://www.linkedin.com/in/alexander-shaham/) · [Discord](https://discord.com/users/249029416590639107) · [Email](mailto:ajshaham@gmail.com)
 
 ## Runefall
 
@@ -26,7 +26,7 @@ All of them run on Cloudflare Workers.
 
 ## Before this
 
-Frontend software engineer at HCL BigFix, on a shared React component library.
-B.S. in Computer Science: Computer Game Design, UC Santa Cruz.
+- Software engineer at HCL BigFix.
+- B.S. in Computer Science: Computer Game Design, UC Santa Cruz.
 
 My code lives in private repositories. I'm happy to walk through any of it, so [get in touch](mailto:ajshaham@gmail.com).
